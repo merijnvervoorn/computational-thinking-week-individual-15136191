@@ -12,6 +12,10 @@ Grade: Golden Robot Pin (in combination with group
 This project includes the code for the first week 
 of semester 3 of Computational Social Science.
 
+Solo Vectors: Silver
+Solo Calculus: Gold
+Solo Foraging: Silver
+
 ---------------------------------------------------
                License
 ---------------------------------------------------
